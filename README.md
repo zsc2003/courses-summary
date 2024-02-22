@@ -10,25 +10,15 @@
 
 
 
-
-
 ## Spring 2022
 
-[]()
+[SI120](https://github.com/zsc2003/ShanghaiTech-SI120) Discrete Mathematics 
 
-[]()
-
-[]()
-
-[]()
-
-
+[CS100](https://github.com/zsc2003/ShanghaiTech-CS100)  Introduction to Programming 
 
 
 
 ## Fall 2022
-
-
 
 []()
 
@@ -42,7 +32,13 @@
 
 
 
+[]()
 
+[]()
+
+[]()
+
+[]()
 
 ## Fall 2023
 
