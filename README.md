@@ -30,38 +30,46 @@
 
 ## Spring 2023
 
-[]()
+[CS100](https://github.com/zsc2003/ShanghaiTech-CS100.git) Introduction to Programming(tutorial)
 
-[]()
+[SI140A](https://github.com/zsc2003/ShanghaiTech-SI140A.git) Probability & Statistics for EECS
 
-[]()
-
-[]()
+[CS110](https://github.com/zsc2003/ShanghaiTech-CS110.git) Computer Architecture 
 
 
 
 ## Fall 2023
 
+[]()
 
+[]()
 
+[]()
 
+[]()
 
 
 
 ## Spring 2024
 
+[]()
 
+[]()
 
+[]()
 
+[]()
 
 
 
 ## Fall 2024
 
-
+[]()
 
 
 
 
 
 ## Spring 2025
+
+[]()
