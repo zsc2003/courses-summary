@@ -1,6 +1,6 @@
 # courses-summary
 
-> description
+> Summary of courses taken during undergraduate studies at ShanghaiTech University
 
 
 
@@ -12,9 +12,9 @@
 
 ## Spring 2022
 
-[SI120](https://github.com/zsc2003/ShanghaiTech-SI120) Discrete Mathematics
-
 [CS100](https://github.com/zsc2003/ShanghaiTech-CS100)  Introduction to Programming
+
+[SI120](https://github.com/zsc2003/ShanghaiTech-SI120) Discrete Mathematics
 
 
 
@@ -32,21 +32,23 @@
 
 [CS100](https://github.com/zsc2003/ShanghaiTech-CS100.git) Introduction to Programming(tutorial)
 
-[SI140A](https://github.com/zsc2003/ShanghaiTech-SI140A.git) Probability & Statistics for EECS
+[CS110](https://github.com/zsc2003/ShanghaiTech-CS110.git) Computer Architecture
 
-[CS110](https://github.com/zsc2003/ShanghaiTech-CS110.git) Computer Architecture 
+[SI140A](https://github.com/zsc2003/ShanghaiTech-SI140A.git) Probability & Statistics for EECS
 
 
 
 ## Fall 2023
 
-[]()
+[CS172](https://github.com/zsc2003/ShanghaiTech-CS172.git) Computer Vision
 
-[]()
+[CS181](https://github.com/zsc2003/ShanghaiTech-CS181.git) Artificial Intelligence
 
-[]()
+[CS182](https://github.com/zsc2003/ShanghaiTech-CS182.git) Introduction to Machine Learning
 
-[]()
+[MATH1112 ](https://github.com/zsc2003/Shanghaitech-Linear-Algebra.git) Linear Algebra(tutorial)
+
+[SI152](https://github.com/zsc2003/ShanghaiTech-SI152.git) Numerical Optimization
 
 
 
