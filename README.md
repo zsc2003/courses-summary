@@ -46,7 +46,7 @@
 
 [CS182](https://github.com/zsc2003/ShanghaiTech-CS182.git) Introduction to Machine Learning
 
-[MATH1112 ](https://github.com/zsc2003/Shanghaitech-Linear-Algebra.git) Linear Algebra(tutorial)
+[MATH1112](https://github.com/zsc2003/Shanghaitech-Linear-Algebra.git) Linear Algebra(tutorial)
 
 [SI152](https://github.com/zsc2003/ShanghaiTech-SI152.git) Numerical Optimization
 
@@ -54,17 +54,27 @@
 
 ## Spring 2024
 
-[]()
+[CS100](https://github.com/zsc2003/ShanghaiTech-CS100) Introduction to Programming(tutorial)
 
-[]()
+[CS240](https://github.com/zsc2003/ShanghaiTech-CS240) Algorithm Design and Analysis 
 
-[]()
+[CS270](https://github.com/zsc2003/ShanghaiTech-CS270) Digital Image Processing 
 
-[]()
+[CS282](https://github.com/zsc2003/ShanghaiTech-CS282) Machine Learning 
+
+[SI140A](https://github.com/zsc2003/ShanghaiTech-SI140A) Probability & Statistics for EECS(tutorial)
+
+[SI251](https://github.com/zsc2003/ShanghaiTech-SI251) Convex Optimization
 
 
 
 ## Fall 2024
+
+[]()
+
+[]()
+
+[]()
 
 []()
 
@@ -73,5 +83,11 @@
 
 
 ## Spring 2025
+
+[]()
+
+[]()
+
+[]()
 
 []()
