@@ -70,15 +70,11 @@
 
 ## Fall 2024
 
-[]()
+[CS101](https://github.com/zsc2003/ShanghaiTech-CS101) Algorithm and Data Structures(tutorial)
 
-[]()
+[EE142](https://github.com/zsc2003/ShanghaiTech-EE142) Fundamentals of Information Theory
 
-[]()
-
-[]()
-
-
+[SI151A](https://github.com/zsc2003/ShanghaiTech-SI151A) Convex Optimization and Its Applications in Information Science
 
 
 
