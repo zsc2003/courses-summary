@@ -1,6 +1,6 @@
 # courses-summary
 
-> Summary of courses taken during undergraduate studies at ShanghaiTech University
+> Summary of courses taken during my undergraduate studies at ShanghaiTech University from Fall 2021 to Spring 2025. 
 
 
 
@@ -80,10 +80,12 @@
 
 ## Spring 2025
 
-[]()
+[CS182](https://github.com/zsc2003/ShanghaiTech-CS182-tutorial) Introduction to Machine Learning(tutorial)
 
-[]()
+[CS290T](https://github.com/zsc2003/ShanghaiTech-CS290T) Project Practice for Reinforcement Learning 
 
-[]()
+[MATH1426](https://github.com/zsc2003/ShanghaiTech-MATH1426) Numerical Analysis
 
-[]()
+[SI199](https://github.com/zsc2003/ShanghaiTech-SI199) Bachelor’s Thesis
+
+[SI252](https://github.com/zsc2003/ShanghaiTech-SI252) Reinforcement Learning
