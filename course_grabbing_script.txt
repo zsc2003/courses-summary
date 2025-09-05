@@ -1,0 +1,60 @@
+let selectNos = ["GESS1027.03","GEHA1189.02","ARTS1434.01"]
+let selectIds = [];
+lessonJSONs.forEach(lesson => {
+    for (idx in selectNos) {
+        if (lesson.no === selectNos[idx]) {
+            console.log(lesson);
+            selectIds.push(lesson.id);
+            selectNos.splice(idx, 1);
+            break;
+        }
+    }
+});
+if (selectNos.length !== 0) {
+    console.log("LSS Warning: lessons %s %s", JSON.stringify(selectNos), "not found");
+}
+
+// let selected = Array(selectIds.length).fill(false);
+let retires = 0;
+let pos = 0;
+
+// Loop with a timer (default 2000ms)
+let LSSHandle = setInterval(() => {
+    if (selectIds.length === 0) {
+        clearInterval(LSSHandle);
+        console.log("LSS stoped successfully.");
+        return;
+    }
+    $.ajax({
+        type: 'POST',
+        url: `https://eams.shanghaitech.edu.cn/eams/stdElectCourse!batchOperator.action?profileId=${electCourseTable.config.profileId}`,
+        data: { optype: true, operator0: `${selectIds[pos]}:true:0` },
+        async: false,
+        success: (data) => {
+            let result_reg = /.*<\/br>/g;
+            let toofast_reg = /请不要过快点击|Please DO NOT click too quickly/g;
+            let failed_reg = /失败|Failure/g;
+            let res = (data.match(result_reg) || data.match(toofast_reg) || []).map((l) => l.replace(/<.*?>/g, '').trim());
+            retires++;
+            if ((data.match(failed_reg) || data.match(toofast_reg)) !== null) {
+                console.log('[x] Failed', retires, res);
+                pos = (pos + 1) % selectIds.length;
+            } else {
+                console.log('[√] Succeed', retires, res);
+                selectIds.splice(pos, 1);
+                if (selectIds.length > 0) {
+                    pos %= selectIds.length;
+                }
+            }
+        },
+        error: (xhr, textStatus, error) => {
+            retires++;
+            pos = (pos + 1) % selectIds.length;
+            console.log('[x] Error', retires, xhr.statusText, textStatus, error);
+        }
+    });
+}, 600);
+
+function stopLSS() {
+    clearInterval(LSSHandle);
+}
