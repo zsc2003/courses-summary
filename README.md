@@ -89,3 +89,23 @@
 [SI199](https://github.com/zsc2003/ShanghaiTech-SI199) Bachelor’s Thesis
 
 [SI252](https://github.com/zsc2003/ShanghaiTech-SI252) Reinforcement Learning
+
+
+
+
+
+> Summary of courses taken during my master's studies at Tsinghua University from Fall 2025. 
+
+## Fall 2025
+
+[74760174](https://github.com/zsc2003/Advanced-Numerical-Analysis) Advanced Numerical Analysis
+
+[74760293](https://github.com/zsc2003/Python-Programming-for-Data-and-Computation) Python Programming for Data and Computation
+
+[74760303](https://github.com/zsc2003/Introduction-to-Modern-Artificial-Intelligence) Introduction to Modern Artificial Intelligence
+
+[84760144](https://github.com/zsc2003/Machine-Learning-Theory) Machine Learning Theory
+
+[84760513](https://github.com/zsc2003/Online-Learning-and-Decision-Making) Online Learning and Decision-Making
+
+[84761063](https://github.com/zsc2003/Deep-Learning) Deep Learning
