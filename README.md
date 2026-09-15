@@ -87,7 +87,7 @@
 
 [MATH1426](https://github.com/zsc2003/ShanghaiTech-MATH1426) Numerical Analysis
 
-[SI199](https://github.com/zsc2003/ShanghaiTech-SI199) Bachelor’s Thesis
+[SI199](https://github.com/zsc2003/ShanghaiTech-SI199) Bachelor's Thesis
 
 [SI252](https://github.com/zsc2003/ShanghaiTech-SI252) Reinforcement Learning
 
@@ -124,3 +124,11 @@
 [84760773](https://github.com/zsc2003/High-Performance-Computing-and-AI-for-Science) High Performance Computing and AI for Science
 
 [84761173](https://github.com/zsc2003/Algorithm-Design) Algorithm Design
+
+
+
+### Fall 2026
+
+[10420803-6](https://github.com/zsc2003/Probability-and-Statistics) Probability and Statistics(tutorial)
+
+[84760533](https://github.com/zsc2003/Topics-in-Optimization) Topics in Optimization
